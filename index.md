@@ -1,5 +1,5 @@
 ---
-title: Sū
+title: 自治ê夢-Sū
 layout: home
 nav_order: 0
 ---
