@@ -1,8 +1,8 @@
 ---
 layout: default
-title: UI Components
+title: Configuration
 nav_order: 2
-has_children: true
+has_children: false
 ---
 
 Tâi-oân to̍k-li̍p kiàn-kok
