@@ -6,12 +6,7 @@ has_children: true
 ---
 
 Góa sī 1 ê Tâi-oân-lâng.
+{: .fs-10 }
+{: .fw-700 }
 
-.m-	margin
-.mx-	margin-left, margin-right
-.my-	margin top, margin bottom
-.mt-	margin-top
-.mr-	margin-right
-.mb-	margin-bottom
-.ml-	margin-left
 
