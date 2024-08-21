@@ -5,7 +5,7 @@ nav_order: 2
 has_children: true
 ---
 
-Góa sī 1 ê Tâi-oân-lâng.
+
 {: .fs-10 }
 {: .fw-700 }
-
+Góa sī 1 ê Tâi-oân-lâng.
