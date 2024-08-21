@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Sū
 layout: home
 nav_order: 0
 ---
