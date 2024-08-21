@@ -7,9 +7,11 @@ has_children: true
 
 Góa sī 1 ê Tâi-oân-lâng.
 
-This paragraph will have a margin bottom of 1rem/16px on large screens.
-{: .mb-lg-4 }
-
-This paragraph will have 2rem/32px of padding on the right and left at all screen sizes.
-{: .px-6 }
+.m-	margin
+.mx-	margin-left, margin-right
+.my-	margin top, margin bottom
+.mt-	margin-top
+.mr-	margin-right
+.mb-	margin-bottom
+.ml-	margin-left
 
