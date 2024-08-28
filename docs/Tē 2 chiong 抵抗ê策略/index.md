@@ -6,3 +6,5 @@ has_children: true
 ---
 
 Tâi-oân to̍k-li̍p kiàn-kok
+{: .fs-5 }
+{: .fw-400 }
