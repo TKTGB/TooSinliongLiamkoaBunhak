@@ -47,10 +47,10 @@ has_children: true
    家己國家家己救，烏雲罩霧免憂愁，你我同齊手牽手，惡勢政權一定勼！
 
 ## 11~20
-11. Ho̍k-ba̍uh hong-pho khióng chài khí, pêng-iú hiaⁿ-tī tio̍h sè-jī, chhat hú káu koaⁿ ū chún-pī, ji̍t-thâu hoe khui ūi ka-tī.
+011. Ho̍k-ba̍uh hong-pho khióng chài khí, pêng-iú hiaⁿ-tī tio̍h sè-jī, chhat hú káu koaⁿ ū chún-pī, ji̍t-thâu hoe khui ūi ka-tī.
 
    服貿風波恐再起，朋友兄弟著細膩，賊府狗官有準備，日頭花開為家己。
-12. In sī chó͘-kok thóng-it bāng, pek sí peh-sìⁿ ji̍p bóe-hāng, chiòng-châi ū phâng ū ti-kak, kiat-kó jû-hô bē sī khang.
+012. In sī chó͘-kok thóng-it bāng, pek sí peh-sìⁿ ji̍p bóe-hāng, chiòng-châi ū phâng ū ti-kak, kiat-kó jû-hô bē sī khang.
    
    In是祖國統一夢，逼死百姓入尾巷，將才有帆有知覺，結果如何袂是空。
 13. Iú ûi iú phâng iú chiòng-châi, khòaⁿ in piáu-hiān tio̍h ē chai, ǹg-bāng pē-bú ài liáu-kái, tài-léng kok-ka hó chiong-lâi.
