@@ -10,11 +10,14 @@ has_children: true
 {: .no_toc }
 
 1. Kéng-chhat si̍t-chāi sī bô-nāi, hō͘ koaⁿ chhat hú chò lô͘-châi, ná chhiūⁿ àng-á thiaⁿ an-pâi, chit khoán thâu-lō͘ si̍t pi-ai.
-警察實在是無奈，護官賊府做奴才，若像尪仔聽安排，即款頭路實悲哀
+
+   警察實在是無奈，護官賊府做奴才，若像尪仔聽安排，即款頭路實悲哀
 2. Ka-tī tio̍h ài khiā--chhut-lâi, chiòng-lâng tâng-chê lâi pâi-kái, mài-kóng koán-lí siáⁿ tī-tāi, sî-kàu hiō-hóe lí tio̍h chai.
-家己著愛徛出來，眾人同齊來排解，莫講管汝啥治代，時到後悔你著知。
+
+   家己著愛徛出來，眾人同齊來排解，莫講管汝啥治代，時到後悔你著知。
 3. Chúi phàu chi̍t chhiong sin sui tó, ì-chì kian-tēng a-put-tó. Siàu-liân chhut-thâu ūi pó-tó, to̍k-chhâi chèng-koân it-tēng tó.
-水炮一沖身雖倒，意志堅定阿不倒。少年出頭為寶島，獨裁政權一定倒。
+
+   水炮一沖身雖倒，意志堅定阿不倒。少年出頭為寶島，獨裁政權一定倒。
 {: .fs-5 }
 {: .fw-500 }
 
