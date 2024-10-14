@@ -1,0 +1,67 @@
+//
+// override _sass/support/_variables.scss
+//
+
+$body-font-family: "Iansui";
+$mono-font-family: "Iansui";
+
+* {
+    font-family: $body-font-family;
+}
+
+* {
+    font-size: 1.1rem;
+}
+
+//
+// override _sass/layout.scss
+//
+
+.site-title {
+    font-size: 1.75rem !important;
+}
+
+.site-footer {
+    @include fs-3;
+}
+
+//
+// override _sass/search.scss
+//
+
+.search-input {
+    @include mq(md) {
+        @include fs-5;
+    }
+}
+
+// .search-results-list {
+//     @include fs-4;
+
+//     @include mq(md) {
+//         @include fs-3;
+//     }
+// }
+
+// .search-result-doc {
+
+//     &.search-result-doc-parent {
+//         @include fs-3;
+
+//         @include mq(md) {
+//             @include fs-2;
+//         }
+//     }
+// }
+
+// .search-result-rel-url {
+//     @include fs-1;
+// }
+
+// .search-result-previews {
+//     @include fs-2;
+// }
+
+// .search-no-result {
+//     @include fs-3;
+// }
