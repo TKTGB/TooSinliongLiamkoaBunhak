@@ -11,8 +11,6 @@ has_children: true
 ## 目錄
 {: .no_toc .text-delta }
 
-1. TOC
-{:toc}
 
 ## 1~10
 1. Kéng-chhat si̍t-chāi sī bô-nāi, hō͘ koaⁿ chhat hú chò lô͘-châi, ná chhiūⁿ àng-á thiaⁿ an-pâi, chit khoán thâu-lō͘ si̍t pi-ai.
