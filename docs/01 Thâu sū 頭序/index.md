@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 01 Thâu sū 頭序
+title: 01 Thâu sū Kán-kài 頭序簡介
 nav_order: 2
 has_children: true
 ---
