@@ -9,6 +9,14 @@ has_children: true
 # 318 sū-kiāⁿ 318事件
 {: .no_toc }
 
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+## 1~10
+
 1. Kéng-chhat si̍t-chāi sī bô-nāi, hō͘ koaⁿ chhat hú chò lô͘-châi, ná chhiūⁿ àng-á thiaⁿ an-pâi, chit khoán thâu-lō͘ si̍t pi-ai.
 
    警察實在是無奈，護官賊府做奴才，若像尪仔聽安排，即款頭路實悲哀
@@ -39,6 +47,9 @@ has_children: true
 10. Ka-tī kok-ka ka-tī kiù, o͘-hûn tah bū bián iu-chhiû, lí góa tâng-chê chhiú khan chhiú, ok-sè chèng-koân it-tēng kiu！
 
    家己國家家己救，烏雲罩霧免憂愁，你我同齊手牽手，惡勢政權一定勼！
+
+## 11~20
+
 11. Ho̍k-ba̍uh hong-pho khióng chài khí, pêng-iú hiaⁿ-tī tio̍h sè-jī, chhat hú káu koaⁿ ū chún-pī, ji̍t-thâu hoe khui ūi ka-tī.
 
    服貿風波恐再起，朋友兄弟著細膩，賊府狗官有準備，日頭花開為家己。
@@ -69,6 +80,9 @@ has_children: true
 20. Bîn-chú ha̍k-ūn lâi phah-piàⁿ, siáng chai o͘-tō tòng gún kiâⁿ, tiau-kang pàng phàu tián chhia-iāⁿ, siáu-jîn pō͘-sò͘ su̍t-á kiáⁿ.
    
    民主學運來打拚，siáng知烏道擋阮行，刁工放炮展奢颺，小人步數su̍t-á囝。
+
+## 21~30
+
 21. Kau-kiat tùi-hōaⁿ jīn a-hiaⁿ, bēng-lēng sè-hàn nāu hōe-tiâⁿ, tán-hāu léng siúⁿ ji̍p kiaⁿ-siâⁿ, lô͘-châi pún-sèng lâi phâng tiáⁿ.
    
    勾結對岸認阿兄，命令細漢鬧會埕，等候領賞入京城，奴才本性來捧鼎。
@@ -99,6 +113,9 @@ has_children: true
 30. Tāi-jîn mā sī ū bó-kiáⁿ, chí-sī chi̍t-sî sèng-tē giâ, khó-ò͘ ê sī Má-kang jiá, tòng gún cheng-siⁿ i lâi khiā.
 
    大人嘛是有某囝，只是一時性地夯，可惡ê是馬江惹，當阮畜生伊來騎。
+
+## 31~40
+
 31. Sin-bûn kì-chiá loān-loān pò͘, ba̍k-chiu hīⁿ-khang that sái-ko, bô-ti peh-sìⁿ sim-tì só, siā-hōe chèng-gī khí hong-pho.
 
    新聞記者亂亂報，目chiu耳空窒屎膏，無知百姓心智鎖，社會正義起風波。
@@ -129,6 +146,10 @@ has_children: true
 40. Peh-sèⁿ kâng-sim khòng siáu jî, thui-hoan to̍k-chhâi ū chì-khì, bī-lâi ka-tī lâi sǹg kè, pó-hō͘ kiáⁿ-sun hó an-ki.
 
    百姓仝心抗痟兒，推翻獨裁有志氣，未來家己來算計，保護囝孫好安居。
+
+
+## 41~50
+
 41. Chia̍h ian-chhiâⁿ ài phòe soàn-thâu, khì-bī cha̍p-chiok só phīⁿ-thâu, nā beh chia̍h sóng kiam chí iau, tio̍h kā tōa-tn̂g lâi ka pau！
 
    食煙腸愛配蒜頭，氣味十足鎖鼻頭，若欲食爽兼止枵，就加大腸來共包！
@@ -159,6 +180,9 @@ has_children: true
 50. Siā-hōe chèng-gī bô kong-pêⁿ, le̍k-sú bûn-hòa sai chhùi-phóe, bô-lêng chèng-hú chhòng siáⁿ-hòe, bīn-chú hong-khì put-chài hôe.
 
    社會正義無公平，歷史文化sai喙䫌，無能政府創啥貨，民主風氣不再回。
+
+## 51~56
+
 51. Kho-ki chìn-pō͘ piàn-hòa kiông, bāng-lō͘ hun-hiáng sī le̍k-liōng. Hiong-bîn thoân-kiat ū su-sióng, kok-ka bīn-chú it-tēng chhiong.
    
    科技進步變化強，網路分享是力量。鄉民團結有思想，國家民主一定昌。
