@@ -49,34 +49,34 @@ has_children: true
 ## 11~20
 11. Ho̍k-ba̍uh hong-pho khióng chài khí, pêng-iú hiaⁿ-tī tio̍h sè-jī, chhat hú káu koaⁿ ū chún-pī, ji̍t-thâu hoe khui ūi ka-tī.
 
-   服貿風波恐再起，朋友兄弟著細膩，賊府狗官有準備，日頭花開為家己。
+    服貿風波恐再起，朋友兄弟著細膩，賊府狗官有準備，日頭花開為家己。
 12. In sī chó͘-kok thóng-it bāng, pek sí peh-sìⁿ ji̍p bóe-hāng, chiòng-châi ū phâng ū ti-kak, kiat-kó jû-hô bē sī khang.
    
-   In是祖國統一夢，逼死百姓入尾巷，將才有帆有知覺，結果如何袂是空。
+    In是祖國統一夢，逼死百姓入尾巷，將才有帆有知覺，結果如何袂是空。
 13. Iú ûi iú phâng iú chiòng-châi, khòaⁿ in piáu-hiān tio̍h ē chai, ǹg-bāng pē-bú ài liáu-kái, tài-léng kok-ka hó chiong-lâi.
 
-   有為有帆有將才，看in表現著ē知，向望父母愛了解，帶領國家好將來。
+    有為有帆有將才，看in表現著ē知，向望父母愛了解，帶領國家好將來。
 14. O͘ -thiⁿ-àm-tē khòaⁿ bô tiâⁿ, am-khàm goe̍h-niû sim kiaⁿ-hiâⁿ, pak-táu 7 chhiⁿ phōaⁿ gún kiâⁿ, hoe ǹg ji̍t-thâu sī thian-bēng.
 
-   烏天地暗看無埕，掩崁月娘心驚惶，北斗七星伴阮行，花向日頭是天命。
+    烏天地暗看無埕，掩崁月娘心驚惶，北斗七星伴阮行，花向日頭是天命。
 15. Gún ê sim-chêng ū kàu thiàⁿ, Tâi-oân koaⁿ-oân beh gún miā, pêng-iú lí kám ū teh thiaⁿ, ǹg-bāng ta̍k-ke lâi chhut-siaⁿ.
 
-   阮ê心情有夠疼，台灣官員欲阮命，朋友你敢有咧聽，向望逐家來出聲。
+    阮ê心情有夠疼，台灣官員欲阮命，朋友你敢有咧聽，向望逐家來出聲。
 16. Su-té hia̍p-gī jiá lâng hiâm, má kang būn-tap gâu thiàu chiam, nā beh siám-pī ho̍k-ba̍uh kiap, sêng-sim-sêng-ì lâi tō-khiam.
    
-   私底協議惹人嫌，馬江問答gâu跳針，若欲閃避服貿劫，誠心誠意來道歉。
+    私底協議惹人嫌，馬江問答gâu跳針，若欲閃避服貿劫，誠心誠意來道歉。
 17. Chí-iàu loān bú siūⁿ-beh thóng, m̄-koán âng nâ án-chóaⁿ chhòng, chek-khek chín-chok mài ké khong, khah bián sî kàu khí lia̍h-kông.
    
-   只要亂舞想欲統，不管紅藍按怎創，即刻振作莫假悾，較免時到起抓狂。
+    只要亂舞想欲統，不管紅藍按怎創，即刻振作莫假悾，較免時到起抓狂。
 18. Kui-nî thàng thiⁿ siau thàn-chîⁿ, iáu-siū sèⁿ-miā bô gī-lí, kiáⁿ-sun iû-ke lâi tiám-chhíⁿ, hō͘ i oàn-thàn hit tong-sî.
    
-   規年迥天痟趁錢，夭壽生命無義理，囝孫遊街來點醒，予伊怨嘆彼當時。
+    規年迥天痟趁錢，夭壽生命無義理，囝孫遊街來點醒，予伊怨嘆彼當時。
 19. Siàu-liân hoán-khòng chiàm kok-hōe, oàn-thàn bī-lâi siáⁿ-lâng pôe, chèng-kheh siám liō cháu ná poe, bīn-chú choân bô siuⁿ lông-pōe.
    
-   少年反抗佔國會，怨嘆未來啥人賠，政客滲尿走ná飛，面子全無傷狼狽。
+    少年反抗佔國會，怨嘆未來啥人賠，政客滲尿走ná飛，面子全無傷狼狽。
 20. Bîn-chú ha̍k-ūn lâi phah-piàⁿ, siáng chai o͘-tō tòng gún kiâⁿ, tiau-kang pàng phàu tián chhia-iāⁿ, siáu-jîn pō͘-sò͘ su̍t-á kiáⁿ.
    
-   民主學運來打拚，siáng知烏道擋阮行，刁工放炮展奢颺，小人步數su̍t-á囝。
+    民主學運來打拚，siáng知烏道擋阮行，刁工放炮展奢颺，小人步數su̍t-á囝。
 {: .fs-5 }
 {: .fw-500 }
 
