@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 02 318 Sū-kiāⁿ 318事件
+title: 01 318 Sū-kiāⁿ 318事件
 nav_order: 3
 has_children: true
 ---
