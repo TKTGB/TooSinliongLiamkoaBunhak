@@ -83,3 +83,43 @@ has_children: true
 
 ```1-2.警察組工會。4.祝318學運早日成功。6. 國鎖台北城。7. 我無同意你兮看法，毋過，我願意用我兮生命維護你講話，表達，批評兮權利。 註：路截[loo7-tsah8] ：拒馬。8-10. 悼先烈鄭南榕逝世25週年，其當年主張台灣獨立，如今，台灣在國民黨的操弄下連民主自由都還受限。2.這次318學運，希望為台獨意識注入一活水，再次點燃台灣對於本土的認同。11. 馬下令臨時會全力推動服貿通過57. 馬改在宜蘭談貨貿```
 
+## He̍k-lêng sū-kiāⁿ 核能事件
+01.  Tâi-téng ián-káng bē ko͘-toaⁿ, siūⁿ-khí hit-sî ū chiù-chōa, ì-chì kian-tēng m̄-káⁿ sòaⁿ, ǹg-bāng ta̍k-ke lâi chò-phōaⁿ〔In-ūi Tâi-oân gún sim-koaⁿ〕.
+      
+      台頂演講袂孤單，想起彼時有咒誓，意志堅定毋敢散，向望逐家來作伴〔因為台灣阮心肝〕。
+```予楊斯棓醫師2014/5/8```
+02.  Ián-káng su-piàn góa siōng ióng, khoân-tó Tâi-oân tē 1 kiông, ì-chì kian-kiông ùi goân-hiong phiau iûⁿ kòe hái koh chài chhiong!
+      
+      演講思辯我上勇，環島台灣第一強，意志堅強為原鄉，飄洋過海閣再衝！
+```~~美國演講加油2014/7/5```
+03.  Kha-báng thoa--leh ê hêng-iáⁿ, tiûⁿ-bīn khah tōa1 mā bô kiaⁿ, phiau iûⁿ kòe-hái bô sǹg siáⁿ, thâu-chêng lō͘-tô͘ gún seng kiâⁿ. 
+      
+      かばん 拖leh ê形影，場面較大嘛無驚，漂洋過海無算啥，頭前路途阮先行。
+```予楊醫師 千里遠渡美國/加拿大演講2014/5/9```
+04.  Chhùi ta nâ-âu chá sau-siaⁿ, thoân-kiat ū la̍t tàu-tīn piàⁿ, chí ūi han-chî tāi-tāi thòaⁿ, chek-khek sim-chêng góa chai-iáⁿ.
+      
+      喙焦嚨喉早梢聲，團結有力鬥陣拚，只為番薯代代湠，即款心情我知影。
+05.  Cháu-chông chhian-lí ūi kò͘-hiong, ta̍h phiàn kang-ô͘ siáⁿ lâng kiông, láu-tōa pêng-iú hó-hó siòng, bông-bông chiân-tô͘ gún lâi chhiong.
+
+      走傱千里為故鄉，踏遍江湖誰人強，老大朋友好好相，茫茫前途阮來衝。
+```贈楊斯棓醫師赴美國反核演講 2014/1/23```
+06.  Su̍t-á siáu-jîn mài tián kiông, chèⁿ-chhùi phoe-phêng siōng bô-liōng, sū-si̍t hiān-chāi koh kan-hiông, iâu-giân siáu-ōe bô thian-liông. 
+
+      Su̍t-á小人mài展強，tsènn-tshuì 批評siōng無量，事實現在閣奸雄，謠言痟話無天良。
+07.  Choân tó ián-káng góa siōng piàⁿ, pêⁿ téng pí-ōe chai su-iâⁿ. Kin-jit ta̍h-ji̍p che mn̂g-tiâⁿ, sī-hui gī-lí hō͘   lí thiaⁿ.
+      
+      全島演講我上拚，棚頂比畫知輸贏。今日踏入這門埕，是非義理予你聽。
+```--<<予楊斯棓醫師>>2014/3/17```
+08.  Ū lâng mn̄g góa ūi tio̍h siáⁿ, sim ū Tâi-oân gún lâi chhiâⁿ! Hoan-gêng ta̍k-ke lâi chàn siaⁿ, ū lí ū góa chò-hóe kiâⁿ.
+
+      有人問我為著啥，心有台灣阮來晟！歡迎逐家來讚聲，有你有我作伙行。
+09.  He̍k-lêng tiān-chhiúⁿ hō͘ lâng kiaⁿ, chi̍t chhut tāi-chì pòaⁿ tiâu miā. Pó-hiám pó͘-chō͘ bô-tè niá, chèng-hú koaⁿ-oân kám ē thiàⁿ?
+
+      核能電廠予人驚，一出代誌半條命。保險補助無tè領，政府官員敢會疼？
+
+10.  Khòa hái ián-káng iā chéng-chí, ǹg-bāng Tâi lâng tiō kak-chhíⁿ, ū-sî hèng liām Tâi-gí si, liáu-kái le̍k-sú lâi chai ki.
+
+      跨海演講掖種子，向望台人就覺醒，有時興唸台語詩，了解歷史來知機。
+```--楊醫師美國演講 2014/9/5```
+{: .fs-5 }
+{: .fw-500 }
