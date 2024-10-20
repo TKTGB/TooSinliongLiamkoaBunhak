@@ -89,16 +89,19 @@ has_children: true
       台頂演講袂孤單，想起彼時有咒誓，意志堅定毋敢散，向望逐家來作伴〔因為台灣阮心肝〕。
 
 ```予楊斯棓醫師2014/5/8```
+
 02.  Ián-káng su-piàn góa siōng ióng, khoân-tó Tâi-oân tē 1 kiông, ì-chì kian-kiông ùi goân-hiong phiau iûⁿ kòe hái koh chài chhiong!
       
-      
+      演講思辯我上勇，環島台灣第一強，意志堅強為原鄉，飄洋過海閣再衝！
       
 ```~~美國演講加油2014/7/5```
+
 03.  Kha-báng thoa--leh ê hêng-iáⁿ, tiûⁿ-bīn khah tōa1 mā bô kiaⁿ, phiau iûⁿ kòe-hái bô sǹg siáⁿ, thâu-chêng lō͘-tô͘ gún seng kiâⁿ. 
       
       かばん 拖leh ê形影，場面較大嘛無驚，漂洋過海無算啥，頭前路途阮先行。
 
 ```予楊醫師 千里遠渡美國/加拿大演講2014/5/9```
+
 04.  Chhùi ta nâ-âu chá sau-siaⁿ, thoân-kiat ū la̍t tàu-tīn piàⁿ, chí ūi han-chî tāi-tāi thòaⁿ, chek-khek sim-chêng góa chai-iáⁿ.
       
       喙焦嚨喉早梢聲，團結有力鬥陣拚，只為番薯代代湠，即款心情我知影。
@@ -107,6 +110,7 @@ has_children: true
       走傱千里為故鄉，踏遍江湖誰人強，老大朋友好好相，茫茫前途阮來衝。
 
 ```贈楊斯棓醫師赴美國反核演講 2014/1/23```
+
 06.  Su̍t-á siáu-jîn mài tián kiông, chèⁿ-chhùi phoe-phêng siōng bô-liōng, sū-si̍t hiān-chāi koh kan-hiông, iâu-giân siáu-ōe bô thian-liông. 
 
       Su̍t-á小人mài展強，tsènn-tshuì 批評siōng無量，事實現在閣奸雄，謠言痟話無天良。
@@ -115,6 +119,7 @@ has_children: true
       全島演講我上拚，棚頂比畫知輸贏。今日踏入這門埕，是非義理予你聽。
 
 ```--<<予楊斯棓醫師>>2014/3/17```
+
 08.  Ū lâng mn̄g góa ūi tio̍h siáⁿ, sim ū Tâi-oân gún lâi chhiâⁿ! Hoan-gêng ta̍k-ke lâi chàn siaⁿ, ū lí ū góa chò-hóe kiâⁿ.
 
       有人問我為著啥，心有台灣阮來晟！歡迎逐家來讚聲，有你有我作伙行。
@@ -125,7 +130,8 @@ has_children: true
 10.  Khòa hái ián-káng iā chéng-chí, ǹg-bāng Tâi lâng tiō kak-chhíⁿ, ū-sî hèng liām Tâi-gí si, liáu-kái le̍k-sú lâi chai ki.
 
       跨海演講掖種子，向望台人就覺醒，有時興唸台語詩，了解歷史來知機。
-      
+
 ```--楊醫師美國演講 2014/9/5```
+
 {: .fs-5 }
 {: .fw-500 }
