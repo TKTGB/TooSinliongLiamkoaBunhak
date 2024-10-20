@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 01 318 Sū-kiāⁿ 318事件
+title: 01 Tàu-kù 鬥句
 nav_order: 3
 has_children: true
 ---
 
-# 318 sū-kiāⁿ 318事件
+# Tàu-kù 鬥句
 {: .no_toc }
 
 ## 目錄
@@ -14,7 +14,7 @@ has_children: true
 1. TOC
 {:toc}
 
-## 1~10
+## 318 sū-kiāⁿ 318事件
 1. Kéng-chhat si̍t-chāi sī bô-nāi, hō͘ koaⁿ chhat hú chò lô͘-châi, ná chhiūⁿ àng-á thiaⁿ an-pâi, chit khoán thâu-lō͘ si̍t pi-ai.
 
    警察實在是無奈，護官賊府做奴才，若像尪仔聽安排，即款頭路實悲哀
@@ -45,8 +45,6 @@ has_children: true
 10. Ka-tī kok-ka ka-tī kiù, o͘-hûn tah bū bián iu-chhiû, lí góa tâng-chê chhiú khan chhiú, ok-sè chèng-koân it-tēng kiu！
 
    家己國家家己救，烏雲罩霧免憂愁，你我同齊手牽手，惡勢政權一定勼！
-
-## 11~20
 11. Ho̍k-ba̍uh hong-pho khióng chài khí, pêng-iú hiaⁿ-tī tio̍h sè-jī, chhat hú káu koaⁿ ū chún-pī, ji̍t-thâu hoe khui ūi ka-tī.
 
     服貿風波恐再起，朋友兄弟著細膩，賊府狗官有準備，日頭花開為家己。
