@@ -15,31 +15,31 @@ has_children: true
 {:toc}
 
 ## 318 sū-kiāⁿ 318事件
-1. Kéng-chhat si̍t-chāi sī bô-nāi, hō͘ koaⁿ chhat hú chò lô͘-châi, ná chhiūⁿ àng-á thiaⁿ an-pâi, chit khoán thâu-lō͘ si̍t pi-ai.
+1.  Kéng-chhat si̍t-chāi sī bô-nāi, hō͘ koaⁿ chhat hú chò lô͘-châi, ná chhiūⁿ àng-á thiaⁿ an-pâi, chit khoán thâu-lō͘ si̍t pi-ai.
 
      警察實在是無奈，護官賊府做奴才，若像尪仔聽安排，即款頭路實悲哀
-2. Ka-tī tio̍h ài khiā--chhut-lâi, chiòng-lâng tâng-chê lâi pâi-kái, mài-kóng koán-lí siáⁿ tī-tāi, sî-kàu hiō-hóe lí tio̍h chai.
+2.  Ka-tī tio̍h ài khiā--chhut-lâi, chiòng-lâng tâng-chê lâi pâi-kái, mài-kóng koán-lí siáⁿ tī-tāi, sî-kàu hiō-hóe lí tio̍h chai.
 
      家己著愛徛出來，眾人同齊來排解，莫講管汝啥治代，時到後悔你著知。
-3. Chúi phàu chi̍t chhiong sin sui tó, ì-chì kian-tēng a-put-tó. Siàu-liân chhut-thâu ūi pó-tó, to̍k-chhâi chèng-koân it-tēng tó.
+3.  Chúi phàu chi̍t chhiong sin sui tó, ì-chì kian-tēng a-put-tó. Siàu-liân chhut-thâu ūi pó-tó, to̍k-chhâi chèng-koân it-tēng tó.
 
      水炮一沖身雖倒，意志堅定阿不倒。少年出頭為寶島，獨裁政權一定倒。
-4. Kok-sū ka-sū khang-khòe sū, khì-sin-ló-miā cháu bē hù, ta̍k kang thâu-téng tah o͘ bū, oàn-thàn ji̍t-thâu teh tuh-ku.
+4.  Kok-sū ka-sū khang-khòe sū, khì-sin-ló-miā cháu bē hù, ta̍k kang thâu-téng tah o͘ bū, oàn-thàn ji̍t-thâu teh tuh-ku.
    
      國事家事工課事，氣身惱命走袂赴，逐工頭頂罩烏霧，怨嘆日頭咧盹龜！
-5. Chá-chá chhut-mn̂g óaⁿ ji̍t chhù, jīn-chin phah-piàⁿ m̄ jīn-su, sêng-kong mài kiaⁿ tán chin kú, kha ta̍h si̍t tē Tâi-oân gû.
+5.  Chá-chá chhut-mn̂g óaⁿ ji̍t chhù, jīn-chin phah-piàⁿ m̄ jīn-su, sêng-kong mài kiaⁿ tán chin kú, kha ta̍h si̍t tē Tâi-oân gû.
    
      早早出門晚入厝，認真打拚毋認輸，成功莫驚等真久，跤踏實地台灣牛。
-6. Su-hoat put kong khì sí lâng, kéng-chhat bô-nāi siat chôa lâng, chóng-thóng put-sî lâi chhòng-khang, tōa-tn̂g hoe khai sì-kè âng.
+6.  Su-hoat put kong khì sí lâng, kéng-chhat bô-nāi siat chôa lâng, chóng-thóng put-sî lâi chhòng-khang, tōa-tn̂g hoe khai sì-kè âng.
    
      司法不公氣死人，警察無奈設蛇籠，總統不時來創空，大腸花開四界紅。
-7. Tâi-pak siâⁿ lāi khǹg lō͘ cha̍h, chún sī kiaⁿ kah sái-liō chhoa̍h. Kiâⁿ--ji̍p ke-thâu pī kok kiap, hô-pêng khòng-cheng jiá siáⁿ hiâm？
+7.  Tâi-pak siâⁿ lāi khǹg lō͘ cha̍h, chún sī kiaⁿ kah sái-liō chhoa̍h. Kiâⁿ--ji̍p ke-thâu pī kok kiap, hô-pêng khòng-cheng jiá siáⁿ hiâm？
    
      台北城內khǹg路截，準是驚卡屎尿泄。行入街頭避國劫，和平抗爭惹啥嫌？
-8. Ha̍k ūn lâng-sò͘ siá le̍k-sú, tùi-khòng to̍k-chhâi bē tàng su, tông-pau thoân-kiat ūi tó-sū, ū siú ū kong tio̍h sam su.
+8.  Ha̍k ūn lâng-sò͘ siá le̍k-sú, tùi-khòng to̍k-chhâi bē tàng su, tông-pau thoân-kiat ūi tó-sū, ū siú ū kong tio̍h sam su.
    
      學運人數寫歷史，對抗獨裁袂當輸，同胞團結為島嶼，有守有攻著三思。
-9. Si̍t-bîn le̍k-sú 400tang, kiàn-kok to̍k-li̍p iáu bîn-bāng, ǹg-bāng kî-thāi ū 1 kang, tōa-siaⁿ hoah chhut Tâi-oân-lâng！
+9.  Si̍t-bîn le̍k-sú 400tang, kiàn-kok to̍k-li̍p iáu bîn-bāng, ǹg-bāng kî-thāi ū 1 kang, tōa-siaⁿ hoah chhut Tâi-oân-lâng！
    
      殖民歷史四佰冬，建國獨立猶眠夢，向望期待有一工，大聲喝出台灣人！
 10. Ka-tī kok-ka ka-tī kiù, o͘-hûn tah bū bián iu-chhiû, lí góa tâng-chê chhiú khan chhiú, ok-sè chèng-koân it-tēng kiu！
