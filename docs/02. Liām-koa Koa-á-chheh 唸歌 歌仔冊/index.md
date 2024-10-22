@@ -26,13 +26,13 @@ has_children: true
 ## A-châi Khit-chia̍h Koa 阿財乞食歌
 
 
-## 2020Chòe-sin Khoàn-sè-koa 2020最新勸世歌
+## 2020 Chòe-sin Khoàn-sè-koa 2020最新勸世歌
 
 
 ## Bān-khiâ-koa 慢騎歌
 
 
-## Chheⁿ-âng-teng Chi Loān 青紅燈之戀
+## Chheⁿ-âng-teng chi Loān 青紅燈之戀
 
 
 ## A-châi Kan-khó͘  Kí-sū 阿財艱苦記事
