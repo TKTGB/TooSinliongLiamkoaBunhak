@@ -14,6 +14,33 @@ has_children: true
 1. TOC
 {:toc}
 
+## Siōng-pan Hâm-bîn Koa 上班陷眠歌
+
+
+## Hóe-chhia kiaⁿ-hûn Kì 火車驚魂記
+
+
+## Siōng-pan Sin-lô Koa上班辛勞歌
+
+
+## A-châi Khit-chia̍h Koa 阿財乞食歌
+
+
+## 2020Chòe-sin Khoàn-sè-koa 2020最新勸世歌
+
+
+## Bān-khiâ-koa 慢騎歌
+
+
+## Chheⁿ-âng-teng Chi Loān 青紅燈之戀
+
+
+## A-châi Kan-khó͘  Kí-sū 阿財艱苦記事
+
+
+## Hô͘-sîn Lia̍h-kông Koa胡蠅掠狂歌
+
+
 ## 2016 Chóng-thóng soán-kí  2016總統選舉
 01. Lia̍t-ūi pêng-iú góa chóng-chhiáⁿ, ū kúi ê tāi-chì lín to thiaⁿ, kóng liáu tiāⁿ-tio̍h ē sim-kiaⁿ, hiān-chūn kín lâi tàu chhut-siaⁿ.
 
@@ -25,6 +52,16 @@ has_children: true
 
      人民選綠不得已，m̄-thang hiau-pai飛上天，nā無注意poa̍h-poa̍h死，chhio-tiô kan-na是一時。
 
+## A-châi Tōa Chiàn Báng-á Koa-Té-phiⁿ 阿財大戰báng-á歌-短篇
+
+
+## A-bûn Liân-hôe Koa Tē 1 chi̍p 阿文連回歌 第一集
+
+
+## A-bûn Liân-hôe Koa Tē 2 chi̍p阿文連回歌 第二集
+
+
+
 ## Lia̍h kau-thè koa 掠交替歌
 01. Kok-ūi hiong-chhin sió an-chēng, thiaⁿ góa liām-koa kúi hun-cheng, Lô-á-chúi-khe beh hoán-chheng, Tâi-oân kiàn-kok tih beh sêng.
 
@@ -35,6 +72,18 @@ has_children: true
 03. Tī lán hiān-kim ê siā-hōe, chîⁿ-châi koân-sè sú lâng bê, lâng-lâng khòaⁿ koân bô khòaⁿ kē, pháiⁿ-kiâⁿ pháiⁿ-tek chò chin chē.
 
      佇咱現今ê社會，錢財權勢使人迷，人人看koân無看低，歹行歹德做真濟。
+
+## Hâm-bîn Lo̍h Sái Koa陷眠落屎歌
+
+
+## Chhiⁿ-chè Si̍t-bîn Ai-koa 星際殖民哀歌
+
+
+## Khong-chú ê Koa 康子ê歌
+
+
+## Chhian-chhiu Liông-kài Si-koe Koa 千狄狼芥西瓜歌
+
 
 ## Se-káng chhut-tāi-chì 西港出代誌
 01. Góa lâi phian koa hō͘ lí thiaⁿ, bô beh khioh lui bián tio̍h-kiaⁿ, SE-káng tāi-chì ài chai-iáⁿ, lông-chhoan chū-kiù tng sî-kiâⁿ.
@@ -48,3 +97,12 @@ has_children: true
      古早西拉雅蕭壠社，後來鄭軍sóa來chia，開墾土地tòa chia khiā，tō是chit陣ê後營。	
 {: .fs-5 }
 {: .fw-400 }
+
+
+## Peh-pah Chòng-sū 八百葬士
+
+
+## Chia̍h Îⁿ-á Koa 食圓仔歌
+
+
+
