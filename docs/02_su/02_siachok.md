@@ -4,7 +4,7 @@ title: 論寫作
 parent: 序
 nav_order: 2
 has_children: false
-permalink: /lunsiachok/
+permalink: /su/lunsiachok/
 ---
 
 # Lūn Siá-chok

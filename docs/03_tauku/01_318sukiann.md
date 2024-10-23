@@ -4,7 +4,7 @@ title: 318事件
 parent: 鬥句
 nav_order: 1
 has_children: false
-permalink: /318sukiann/
+permalink: /tauku/318sukiann/
 ---
 
 # 318 Sū-kiāⁿ

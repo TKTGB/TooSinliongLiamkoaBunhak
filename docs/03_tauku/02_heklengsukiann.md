@@ -4,7 +4,7 @@ title: 核能事件
 parent: 鬥句
 nav_order: 1
 has_children: false
-permalink: /heklengsukiann/
+permalink: /tauku/heklengsukiann/
 ---
 
 # He̍k-lêng Sū-kiāⁿ
@@ -20,10 +20,10 @@ permalink: /heklengsukiann/
 ## #1
 
 {: .highlight }
-Tâi-téng ián-káng bē ko͘-toaⁿ, siūⁿ-khí hit-sî ū chiù-chōa, ì-chì kian-tēng m̄-káⁿ sòaⁿ, ǹg-bāng ta̍k-ke lâi chò-phōaⁿ〔In-ūi Tâi-oân gún sim-koaⁿ〕.
+Tâi-téng ián-káng bē ko͘-toaⁿ, siūⁿ-khí hit-sî ū chiù-chōa, ì-chì kian-tēng m̄-káⁿ sòaⁿ, ǹg-bāng ta̍k-ke lâi chò-phōaⁿ\(In-ūi Tâi-oân gún sim-koaⁿ\).
 {: .fs-6 }
 
-台頂演講袂孤單，想起彼時有咒誓，意志堅定毋敢散，向望逐家來作伴〔因為台灣阮心肝〕。
+台頂演講袂孤單，想起彼時有咒誓，意志堅定毋敢散，向望逐家來作伴（因為台灣阮心肝）。
 {: .fs-5 }
 
 ```

@@ -4,7 +4,7 @@ title: 紹介杜信龍
 parent: 序
 nav_order: 1
 has_children: false
-permalink: /siaukai/
+permalink: /su/siaukai/
 ---
 
 # Siāu-kài Tō͘ Sìn-liông
