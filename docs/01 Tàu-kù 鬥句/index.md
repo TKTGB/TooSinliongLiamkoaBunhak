@@ -15,7 +15,7 @@ has_children: true
 {:toc}
 
 ## 318 sū-kiāⁿ 318事件
-1.  Kéng-chhat si̍t-chāi sī bô-nāi, hō͘ koaⁿ chhat hú chò lô͘-châi, ná chhiūⁿ àng-á thiaⁿ an-pâi, chit khoán thâu-lō͘ si̍t pi-ai.
+1.  Kéng-chhat si̍t-chāi sī bû-nāi, hō͘ koaⁿ chha̍t hú chò lô͘-châi, ná chhiūⁿ ang-á thiaⁿ an-pâi, chit khoán thâu-lō͘ si̍t pi-ai.
 
      警察實在是無奈，護官賊府做奴才，若像尪仔聽安排，即款頭路實悲哀
 2.  Ka-tī tio̍h ài khiā--chhut-lâi, chiòng-lâng tâng-chê lâi pâi-kái, mài-kóng koán-lí siáⁿ tī-tāi, sî-kàu hiō-hóe lí tio̍h chai.
