@@ -1,12 +1,14 @@
 ---
 layout: default
-title: 03. Kî-thaⁿ--ê 其他--ê
-nav_order: 4
+title: 其他--ê
+nav_order: 5
 has_children: true
+permalink: /kithann/
 ---
 
-# Kî-thaⁿ--ê 其他--ê
+# Kî-thaⁿ--ê
 {: .no_toc }
+其他--ê
 
 ## 目錄
 {: .no_toc .text-delta }

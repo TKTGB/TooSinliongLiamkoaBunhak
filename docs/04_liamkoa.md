@@ -1,12 +1,14 @@
 ---
 layout: default
-title: 02. Liām-koa Koa-á-chheh 唸歌 歌仔冊
+title: 唸歌
 nav_order: 4
 has_children: true
+permalink: /liamkoa/
 ---
 
-# Liām-koa Koa-á-chheh 唸歌 歌仔冊
+# Liām-koa
 {: .no_toc }
+唸歌
 
 ## 目錄
 {: .no_toc .text-delta }

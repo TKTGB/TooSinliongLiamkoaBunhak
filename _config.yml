@@ -1,6 +1,6 @@
 title: 杜信龍唸歌文學
 description: Tō͘ Sìn-liông Liām-koa Bûn-ha̍k
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs@v0.10.0
 
 url: https://tktgb.org.tw/TooSinliongLiamkoaBunhak/
 
@@ -9,6 +9,20 @@ url: https://tktgb.org.tw/TooSinliongLiamkoaBunhak/
 
 # Set a path/url to a favicon that will be displayed by the browser
 # favicon_ico: "/assets/images/favicon.ico"
+
+# markdown render engine.
+markdown: kramdown
+kramdown:
+  typographic_symbols:
+    ndash: --
+
+callouts_level: quiet # quiet or loud
+callouts:
+  highlight:
+    color: green
+  warning:
+    title: Warning
+    color: red
 
 # Enable or disable the site search
 # Supports true (default) or false
