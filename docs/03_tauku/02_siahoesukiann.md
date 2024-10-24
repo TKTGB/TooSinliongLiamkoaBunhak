@@ -1,15 +1,15 @@
 ---
 layout: default
-title: 核能事件
+title: 社會事件
 parent: 鬥句
-nav_order: 1
+nav_order: 2
 has_children: false
-permalink: /tauku/heklengsukiann/
+permalink: /tauku/siahoesukiann/
 ---
 
-# He̍k-lêng Sū-kiāⁿ
+# Siā-hōe Sū-kiāⁿ
 {: .no_toc }
-核能事件
+社會事件
 
 ## 目錄
 {: .no_toc .text-delta }
