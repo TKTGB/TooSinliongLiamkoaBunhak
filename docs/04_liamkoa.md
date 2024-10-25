@@ -40,7 +40,7 @@ permalink: /liamkoa/
 ## A-châi Kan-khó͘  Kí-sū 阿財艱苦記事
 
 
-## Hô͘-sîn Lia̍h-kông Koa胡蠅掠狂歌
+## Hô͘-sîn Lia̍h-kông Koa 胡蠅掠狂歌
 
 
 ## 2016 Chóng-thóng soán-kí  2016總統選舉
