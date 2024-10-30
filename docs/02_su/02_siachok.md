@@ -108,7 +108,7 @@ Chóng kóng--1-kù, he sī ka-tī ha̍k-sip gí-giân ê pō͘-sò͘ niâ. Ch
 ### #2
 
 {: .highlight }
-Góa siá 7jī-á ū kóa hong-hoat, kî-tiong 1 ê sī khah kín\(hāu-lu̍t\), sek-ha̍p chho͘-ha̍p chiá. Chho͘-ha̍p chiá ē-tàng tī chit ê kòe-thêng koh khì ha̍k-si̍p sin ê sû \(m̄-bat iōng--kòe ê kū Tâi-gí sû.\)
+Góa siá 7jī-á ū kóa hong-hoat, kî-tiong 1 ê sī khah kín\(hāu-lu̍t\), sek-ha̍p chho͘-ha̍p chiá. Chho͘-ha̍k-chiá ē-tàng tī chit ê kòe-thêng koh khì ha̍k-si̍p sin ê sû \(m̄-bat iōng--kòe ê kū Tâi-gí sû.\)
 {: .fs-6 }
 
 我寫七字仔有寡方法，其中1个是khah緊 \(效率\)，適合初學者。初學者ē-tàng佇chit ê過程koh去學習新ê詞 \(m̄-bat用過ê舊台語詞\)。
