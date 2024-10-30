@@ -31,7 +31,7 @@ Góa siá 7 jī á ū kúi ā ê bo̍k-tek, seng lia̍t 6 hāng.
 {: .fs-5 }
 
 {: .highlight }
-2.Hō͘ lâng o̍h Tâi-gí. Che kap kòe-khì liām-koa ū kâng-khoán ê bo̍k-tek. M̄-koh, góa m̄ sī siá koa. Ē liām bē liām？Góa siūⁿ tāi-pō͘-hūn sī bē liām--chit , tán í-āu goe̍h-khîm khah chiâu-chn̂g chiah lâi chhì.
+2.Hō͘ lâng o̍h Tâi-gí. Che kap kòe-khì liām-koa ū kâng-khoán ê bo̍k-tek. M̄-koh, góa m̄ sī siá koa. Ē liām bē liām？Góa siūⁿ tāi-pō͘-hūn sī bē liām--chit , tán í-āu goe̍h-khîm o̍h liáu khah chiâu-chn̂g chiah lâi chhì.
 {: .fs-6 }
 
 2.Hō͘人學台語。Che kap 過去唸歌有仝款ê目地。不過，我m̄是寫歌。會唸袂唸？我想大部份是袂唸--chit ，等以後月琴學了khah chiâu-chn̂g chiah 來試。
@@ -143,7 +143,7 @@ Góa siá 7jī-á ū kóa hong-hoat, kî-tiong 1 ê sī khah kín\(hāu-lu̍t\),
 {: .fs-5 }
 
 {: .highlight }
-4.Chéng-lí gí-sû. Kā châ tio̍h siong-koan ê gí-sû kho͘--lo̍h-lâi, tah tī Excel, í-āu chiâⁿ hó iōng. \(Big data/database\)
+4.Chéng-lí gí-sû. Kā chhâ tio̍h siong-koan ê gí-sû kho͘--lo̍h-lâi, tah tī Excel, í-āu chiâⁿ hó iōng. \(Big data/database\)
 {: .fs-6 }
 
 4.整理語詞。Kā查tio̍h相關ê語詞kho͘--落-來，tah佇Excel，以後誠好用。（BIG data / database）。
@@ -176,7 +176,7 @@ Tó 1 chióng khah sūn, sek-ha̍p Kang-ô͘-tiāu（2+2, 1+2）, （2+2, 2+1�
 未來
 
 {: .highlight }
-1.Ke thiaⁿ kóa koa-á-sian, tha̍k koa-á chheh. Hó-hó tha̍k 1 pún koa-á-chheh. Kéng 10 pún eng-kai ài tha̍k ê koa-á-chheh, chhin-chhiūⁿ khoàn-sè-koa, Lí lô-chhia nāu Tang-hái, Hô͘-sîn báng-á koa, che lóng ū koa-á-sian chhiùⁿ--kòe, koa-á-chheh mā chhōe ē tio̍h. Khah hiān-tāi ê pí-jû Téng-pang hiaⁿ ê koa-á-chheh, koh ū bûn-ha̍k koán chú phian ê liām-koa, bîn-iâu.
+1.Ke thiaⁿ kóa koa-á-sian, tha̍k koa-á chheh. Hó-hó tha̍k 1 pún koa-á-chheh. Kéng 10 pún eng-kai ài tha̍k ê koa-á-chheh, chhin-chhiūⁿ khoàn-sè-koa, Lí lô-chhia nāu Tang-hái, Hô͘-sîn báng-á koa, che lóng ū koa-á-sian chhiùⁿ--kòe, koa-á-chheh mā chhōe ē tio̍h. Khah hiān-tāi ê pí-jû Tēng-pang hiaⁿ ê koa-á-chheh, koh ū bûn-ha̍k koán chú phian ê liām-koa, bîn-iâu.
 {: .fs-6 }
 
 1.加聽寡歌á仙，讀歌á冊。好好讀1本歌仔冊。揀10本應該愛讀ê歌á冊，親像勸世歌，李哪吒鬧東海、胡蠅蠓仔歌，che lóng有歌仔仙唱過，歌仔冊mā揣ē tio̍h。Khah現代ê比如定邦兄ê歌仔冊，koh有文學館伊主編ê唸歌、民謠。
