@@ -17,7 +17,7 @@ permalink: /tauku/318sukiann/
 1. TOC
 {:toc}
 
-## #1
+## #1~10
 
 {: .highlight }
 Kéng-chhat si̍t-chāi sī bô-nāi, hō͘ koaⁿ chhat hú chò lô͘-châi, ná chhiūⁿ àng-á thiaⁿ an-pâi, chit khoán thâu-lō͘ si̍t pi-ai.
@@ -26,7 +26,6 @@ Kéng-chhat si̍t-chāi sī bô-nāi, hō͘ koaⁿ chhat hú chò lô͘-châi,
 警察實在是無奈，護官賊府做奴才，若像尪仔聽安排，即款頭路實悲哀。
 {: .fs-5 }
 
-## #2
 
 {: .highlight }
 Ka-tī tio̍h ài khiā–chhut-lâi, chiòng-lâng tâng-chê lâi pâi-kái, mài-kóng koán-lí siáⁿ tī-tāi, sî-kàu hiō-hóe lí tio̍h chai.
@@ -35,7 +34,6 @@ Ka-tī tio̍h ài khiā–chhut-lâi, chiòng-lâng tâng-chê lâi pâi-kái, m
 家己著愛徛出來，眾人同齊來排解，莫講管汝啥治代，時到後悔你著知。
 {: .fs-5 }
 
-## #3
 
 {: .highlight }
 Chúi-phàu chi̍t chhiong sin sui tó, ì-chì kian-tēng a-put-tó, siàu-liân chhut-thâu ūi pó-tó, to̍k-chhâi chèng-koân it-tēng tó.
@@ -48,7 +46,6 @@ Chúi-phàu chi̍t chhiong sin sui tó, ì-chì kian-tēng a-put-tó, siàu-liâ
 2014/3/27
 ```
 
-## #4
 
 {: .highlight }
 Kok-sū ka-sū khang-khòe-sū, khì-sin-ló-miā cháu bē hù, ta̍k kang thâu-téng tah o͘ bū, oàn-thàn ji̍t-thâu teh tuh-ku!
@@ -61,7 +58,6 @@ Kok-sū ka-sū khang-khòe-sū, khì-sin-ló-miā cháu bē hù, ta̍k kang thâ
 2014/3/28
 ```
 
-## #5
 
 {: .highlight }
 Chá-chá chhut-mn̂g óaⁿ ji̍p-chhù, jīn-chin phah-piàⁿ m̄ jīn-su, sêng-kong mài kiaⁿ tán chin kú, kha ta̍h si̍t-tē Tâi-oân-gû.
@@ -74,7 +70,6 @@ Chá-chá chhut-mn̂g óaⁿ ji̍p-chhù, jīn-chin phah-piàⁿ m̄ jīn-su, s�
 2014/3/28
 ```
 
-## #6
 
 {: .highlight }
 Su-hoat put kong khì sí lâng, kéng-chhat bû-nāi siat chôa-láng, chóng-thóng put-sî lâi chhòng-khang, tōa-tn̂g hoe-khui sì-kè âng.
@@ -87,7 +82,6 @@ Su-hoat put kong khì sí lâng, kéng-chhat bû-nāi siat chôa-láng, chóng-t
 2014/5/3
 ```
 
-## #7
 
 {: .highlight }
 Tâi-pak-siâⁿ lāi khǹg lō͘-cha̍h, chún sī kiaⁿ kah sái-liō chhoah. Kiâⁿ ji̍p ke-thâu pī kok kiap, hô-pêng khòng-cheng jiá sáⁿ hiâm？
@@ -100,7 +94,6 @@ Tâi-pak-siâⁿ lāi khǹg lō͘-cha̍h, chún sī kiaⁿ kah sái-liō chhoah
 2014/4/29
 ```
 
-## #8
 
 {: .highlight }
 Ha̍k-ūn lâng-sò͘ siá le̍k-sú, tùi-khòng to̍k-chhâi bē-tàng su, tông-pau thoân-kiat ūi tó-sū, ū siú ū kong tio̍h sàm-su.
@@ -113,7 +106,6 @@ Ha̍k-ūn lâng-sò͘ siá le̍k-sú, tùi-khòng to̍k-chhâi bē-tàng su, t�
 2014/4/8
 ```
 
-## #9
 
 {: .highlight }
 Si̍t-bîn le̍k-sú 400 tang, kiàn-kok to̍k-li̍p iáu bîn-bāng, ǹg-bāng kî-thāi ū 1 kang, tōa-siaⁿ hoah chhut Tâi-oân-lâng!
@@ -122,7 +114,6 @@ Si̍t-bîn le̍k-sú 400 tang, kiàn-kok to̍k-li̍p iáu bîn-bāng, ǹg-bāng 
 殖民歷史四佰冬，建國獨立猶眠夢，向望期待有一工，大聲喝出台灣人！
 {: .fs-5 }
 
-## #10
 
 {: .highlight }
 Ka-tī kok-ka ka-tī kiù, o͘-hûn tah bū bián iu-chhiû, lí góa tâng-chê chhiú khan chhiú, ok-sè chèng-koân it-tēng kiu!

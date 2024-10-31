@@ -18,7 +18,7 @@ permalink: /su/lunsiachok/
 {:toc}
 
 ## 目地
-我寫七字仔有幾ā ê先列5項。
+我寫七字仔有幾ā ê先列6項。
 
 1. 學新詞，造句。Che kap過去學英文仝款。自我教育ê方式之一。Khioh少用koh實用ê台語詞。
 2. Hō͘人學台語。Che kap 過去唸歌有仝款ê目地。不過，我m̄是寫歌。會唸袂唸？我想大部份是袂唸—chi̍t，等以後月琴學了khah chiâu-chn̂g chiah 來試。
