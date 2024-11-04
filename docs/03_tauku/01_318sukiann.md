@@ -122,7 +122,7 @@ Ka-tī kok-ka ka-tī kiù, o͘-hûn tah bū bián iu-chhiû, lí góa tâng-chê
 家己國家家己救，烏雲罩霧免憂愁，你我同齊手牽手，惡勢政權一定勼！
 {: .fs-5 }
 
-## #11
+## #11~20
 
 {: .highlight }
 Ho̍k-bō͘ hong-pho khióng chài khí, pêng-iú hiaⁿ-tī tio̍h sè-jī, chha̍t-hú káu-koaⁿ ū chún-pī, ji̍t-thâu hoe-khui ūi ka-tī.
@@ -135,8 +135,6 @@ Ho̍k-bō͘ hong-pho khióng chài khí, pêng-iú hiaⁿ-tī tio̍h sè-jī, c
 2014/6/3
 ```
 
-## #12
-
 {: .highlight }
 In sī chó͘-kok thóng-it bāng, pek-sí peh-sìⁿ ji̍p bóe-hāng, chiòng-châi ū phâng ū ti-kak, kiat-kó jû-hô bē sī khang.
 {: .fs-6 }
@@ -147,8 +145,6 @@ in是祖國統一夢，逼死百姓入尾巷，將才有帆有知覺，結果如
 ```
 2014/3/23
 ```
-
-## #13
 
 {: .highlight }
 Iú ûi iú phâng iú chiòng-châi, khòaⁿ in piáu-hiān tio̍h ē chai, ǹg-bāng pē-bú ài liáu-kái, tòa-niá kok-ka hó chiong-lâi.
@@ -161,8 +157,6 @@ Iú ûi iú phâng iú chiòng-châi, khòaⁿ in piáu-hiān tio̍h ē chai, ǹ
 2014/3/23
 ```
 
-## #14
-
 {: .highlight }
 O͘ -thiⁿ tē-àm khòaⁿ bô tiâⁿ, am-khàm goe̍h-niû sim kiaⁿ-hiâⁿ, pak-táu 7 chhiⁿ phōaⁿ gún kiâⁿ, hoe ǹg ji̍t-thâu sī thian-miā.
 {: .fs-6 }
@@ -173,8 +167,6 @@ O͘ -thiⁿ tē-àm khòaⁿ bô tiâⁿ, am-khàm goe̍h-niû sim kiaⁿ-hiâ�
 ```
 2014/3/24
 ```
-
-## #15
 
 {: .highlight }
 Gún ê sim-chêng ū kàu thiàⁿ, Tâi-oân koaⁿ-oân ài gún miā, pêng-iú lí kám ū teh thiaⁿ, ǹg-bāng ta̍k-ke lâi chhut-siaⁿ.
@@ -187,8 +179,6 @@ Gún ê sim-chêng ū kàu thiàⁿ, Tâi-oân koaⁿ-oân ài gún miā, pêng-
 2014/3/21
 ```
 
-## #16
-
 {: .highlight }
 Su-té hia̍p-gī jiá lâng hiâm, Má Kang būn-tap gâu thiàu-chiam, nā beh siám-pī ho̍k-bō͘ kiap, sêng-sim-sêng-ì lâi tō-khiam.
 {: .fs-6 }
@@ -199,8 +189,6 @@ Su-té hia̍p-gī jiá lâng hiâm, Má Kang būn-tap gâu thiàu-chiam, nā beh
 ```
 2014/3/23
 ```
-
-## #17
 
 {: .highlight }
 Chí-iàu loān bú siūⁿ-beh thóng, m̄-koán âng nâ án-chóaⁿ chhòng, chek-khek chín-chok mài ké khong, khah bián sî kàu khí lia̍h-kông.
@@ -213,8 +201,6 @@ Chí-iàu loān bú siūⁿ-beh thóng, m̄-koán âng nâ án-chóaⁿ chhòng,
 2014/3/24
 ```
 
-## #18
-
 {: .highlight }
 Kui-nî thàng thiⁿ siáu thàn-chîⁿ, iáu-siū sèⁿ-miā bô gī-lí, kiáⁿ-sun iû-ke lâi tiám-chhíⁿ, hō͘ i oàn-thàn hit tong-sî.
 {: .fs-6 }
@@ -225,8 +211,6 @@ Kui-nî thàng thiⁿ siáu thàn-chîⁿ, iáu-siū sèⁿ-miā bô gī-lí, ki
 ```
 2014/3/25
 ```
-
-## #19
 
 {: .highlight }
 Siàu-liân hoán-khòng chiàm kok-hōe, oàn-thàn bī-lâi siáⁿ-lâng pôe, chèng-kheh siám liō cháu ná poe, bīn-chú choân bô siuⁿ lông-pōe.
@@ -239,8 +223,6 @@ Siàu-liân hoán-khòng chiàm kok-hōe, oàn-thàn bī-lâi siáⁿ-lâng pôe
 2014/3/29
 ```
 
-## #20
-
 {: .highlight }
 Bîn-chú ha̍k-ūn lâi phah-piàⁿ, siáng chai o͘-tō tòng gún kiâⁿ, tiau-kang pàng phàu tián chhia-iāⁿ, siáu-jîn pō͘-sò͘ su̍t-á kiáⁿ.
 {: .fs-6 }
@@ -251,3 +233,17 @@ Bîn-chú ha̍k-ūn lâi phah-piàⁿ, siáng chai o͘-tō tòng gún kiâⁿ, t
 ```
 2014/3/25
 ```
+
+## #21~30
+
+{: .highlight }
+Kau-kiat tùi-hōaⁿ jīn a-hiaⁿ, bēng-lēng sè-hàn nāu hōe-tiâⁿ, tán-hāu léng siúⁿ ji̍p kiaⁿ-siâⁿ, lô͘-châi pún-sèng lâi phâng tiáⁿ.
+{: .fs-6 }
+
+勾結對岸認阿兄，命令細漢鬧會埕，等候領賞入京城，奴才本性來捧鼎。
+{: .fs-5 }
+
+```
+2014/3/25
+```
+
